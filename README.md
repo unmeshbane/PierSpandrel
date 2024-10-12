@@ -1,2 +1,2 @@
 # PierSpandrel
-Tool to update Pier and Spandrel properties in ETABS
+Tool to automate upates of Pier and Spandrel properties in ETABS
